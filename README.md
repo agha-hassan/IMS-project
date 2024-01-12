@@ -1,4 +1,4 @@
 # IMS-project
 This is my first Git Repository.
 <br>
-Author - Agha Hassan
+Author - Agha Ali
