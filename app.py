@@ -4,4 +4,4 @@ app = Flask(__name__)
 
 @app.route('/')
 def hello_world():
-    return 'Hello, world! This is now deployed on Jenkins pipeline.'
+    return 'Hello, world! This webapp is deployed on Jenkins pipeline.'
